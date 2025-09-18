@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/afalcon/dev/odoo/odoo16/src/",
+    ],
+}
