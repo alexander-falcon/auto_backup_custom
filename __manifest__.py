@@ -9,4 +9,6 @@
     'data': [],
     'installable': True,
     'auto_install': False,
+    'author': "Alexander Falcón",
+    'license': 'LGPL-3',
 }
